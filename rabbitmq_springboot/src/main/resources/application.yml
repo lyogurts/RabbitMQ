@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: springboot_rabbitmq
+  rabbitmq:
+    host: 42.193.98.249
+    port: 5672
+    username: guest
+    password: guest
+    virtual-host: virtualMachine
